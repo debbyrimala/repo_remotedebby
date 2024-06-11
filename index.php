@@ -14,7 +14,7 @@
 <body>
     <div class="container mt-5 mb-5">
             <div class="row no-gutters">
-                <div class="col-md-4 col-lg-4"><img src="https://i.imgur.com/aCwpF7V.jpg"></div>
+                <div class="col-md-4 col-lg-4"><img src="debby.jpeg"></div>
                 <div class="col-md-8 col-lg-8">
                     <div class="d-flex flex-column">
                         <div class="d-flex flex-row justify-content-between align-items-center p-5 bg-dark text-white">
